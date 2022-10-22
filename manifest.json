@@ -8,7 +8,7 @@
   },
   "background": {
     "persistent": false,
-    "page": "./background.html"
+    "service_worker": "./background.html"
   },
   "incognito": "split",
   "browser_action": {
