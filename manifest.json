@@ -17,6 +17,6 @@
   "permissions":    [
     "webNavigation", "storage", "tabs"
   ],
-  "manifest_version": 2,
+  "manifest_version": 3,
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"  
 }
